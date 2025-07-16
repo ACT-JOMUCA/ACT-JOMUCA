@@ -1,6 +1,6 @@
 # Hi there! I'm José👋
 
-I'm a recent **Actuarial Science graduate** from the BUAP, I am passionate about transforming data into solutions and strategies. I am actively seeking my first professional opportunity in **Risk Analysis, Finance, Banking, or Data Science**, where I can apply my skills to solve complex problems.
+I'm a recent **Actuarial Science graduate** from the BUAP, I'm passionate about transforming data into solutions and strategies. I am actively seeking my first professional opportunity in **Risk Analysis, Finance, Banking, or Data Science**, where I can apply my skills to solve complex problems.
 
 
 ---
